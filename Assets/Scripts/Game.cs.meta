@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2354527961624854e9204d197df0909f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - orb_turret: {fileID: 4159868034432998343, guid: b1483f310f77105429ad1b39e6afd017,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
