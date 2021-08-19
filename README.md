@@ -2,6 +2,8 @@
 
 HackForGood 2021 - Open World Project Caeda Odyssey
 
+An educational game meant to help children understand various STEM concepts in an intuitive and engaging manner. 
+
 <img width="1089" alt="Caeda Odyssey" src="https://user-images.githubusercontent.com/50938891/130033040-907dc6bb-efc2-4750-b4d2-685c4f87377f.png">
 
 This Repository contains 3 different branches which represent Unity Projects created by us!
